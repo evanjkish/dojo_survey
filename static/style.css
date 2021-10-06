@@ -1,0 +1,15 @@
+.form {
+    display: flex;
+    background-color: gray;
+    width: 50%;
+    margin-top: 10%;
+    margin-left: 25%;
+    margin-right: 25%;
+    align-items:flex-start;
+    justify-content: space-evenly;
+    flex-direction: column;
+    padding: 5%;
+}
+.title{
+    color: darkorange;
+}
